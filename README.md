@@ -11,6 +11,12 @@
 > [Inception v4][7]--Inception v4和Inception-ResNet  
 > [ResNet][8]--残差网络，使得非常深的CNN可以有效的训练，不会出现性能退化的情况  
 > [Identity Mappings in ResNet][9]--对于ResNet结构的改进  
+> [Wide ResNet][14]--从宽度改进ResNet  
+> [ResNeXt][15]--ResNet变体，改进卷积结构  
+> [DenseNet][16]--ResNet变体，每一层都能得到之前所有层的输出  
+> [MobileNet][17]--ResNet变体，应用于移动端的网络结构，大规模使用depthwise separable convolution  
+> [ShuffleNet][18]--应用于移动端的ResNet,使用group pointwise convolution  
+> [DPN][19]--2017年ILSVRC，Dual Path Network  
 
 ### GAN ###
 > [GAN][10]--GAN网络的出现  
@@ -31,3 +37,9 @@
 [11]:https://arxiv.org/pdf/1511.06434.pdf
 [12]:https://arxiv.org/pdf/1701.07875.pdf
 [13]:https://arxiv.org/pdf/1611.07004.pdf
+[14]:https://arxiv.org/pdf/1605.07146.pdf
+[15]:https://arxiv.org/pdf/1611.05431.pdf
+[16]:https://arxiv.org/pdf/1608.06993.pdf
+[17]:https://arxiv.org/pdf/1704.04861.pdf
+[18]:https://arxiv.org/pdf/1707.01083.pdf
+[19]:https://arxiv.org/pdf/1707.01629.pdf
