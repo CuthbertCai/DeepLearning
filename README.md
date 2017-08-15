@@ -2,7 +2,7 @@
 > 收集了关于深度学习的一些学习资料，主要包括CNN,RNN,GAN的论文和网课，模型的具体实现可以参考Tensorflow的[models][1],里面包括了很多深度学习的模型实现．
 
 ### CNN ###
-> ####  在ImageNet比赛中出现的比较重要的CNN结构以及ResNet的各种变体 ####    
+> ####  在ImageNet比赛中出现的比较重要的CNN结构以及ResNet的各种变体  ####    
 > [AlexNet][2]--2012年ILSVRC的优胜者  
 > [VGG][3]--Very Deep Convolutional Networks for Large-Scale Image Recognition,主要专注于加深网络结构从而提升网络性能  
 > [Network in Network][4]--新的卷积结构，Inception的基础，卷积结构的复杂带来性能提升  
