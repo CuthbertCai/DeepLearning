@@ -8,7 +8,7 @@
 > [Network in Network][4]--新的卷积结构，Inception的基础，卷积结构的复杂带来性能提升  
 > [GoogLeNet][5]--Inception v1,2014年ILSVRC  
 > [Inception v2,Inception v3][6]--进一步改进GoogLeNet的卷积结构  
-> [Inception v4][7]--Inception v4和Inception-ResNet  
+> [Inception v4][7]--Inception v4和Inception-ResNet  
 > [Xception][20]--Inception的分析以及depthwise separable convolution  
 > [ResNet][8]--残差网络，使得非常深的CNN可以有效的训练，不会出现性能退化的情况   
 > [Identity Mappings in ResNet][9]--对于ResNet结构的改进  
