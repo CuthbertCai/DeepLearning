@@ -15,9 +15,12 @@
 > [Wide ResNet][14]--从宽度改进ResNet  
 > [ResNeXt][15]--ResNet变体，改进卷积结构  
 > [DenseNet][16]--ResNet变体，每一层都能得到之前所有层的输出  
+> [DPN][19]--2017年ILSVRC，Dual Path Network  
+
+> #### 一些精简模型，减少参数并保持准确率，可用于嵌入式设备  
 > [MobileNet][17]--ResNet变体，应用于移动端的网络结构，大规模使用depthwise separable convolution  
 > [ShuffleNet][18]--应用于移动端的ResNet,使用pointwise group convolution和channel shuffle  
-> [DPN][19]--2017年ILSVRC，Dual Path Network  
+> [SqueezeNet][21]--small DNN architecture,参数大大减少  
 
 ### GAN ###
 > [GAN][10]--GAN网络的出现  
@@ -45,3 +48,4 @@
 [18]:https://arxiv.org/pdf/1707.01083.pdf
 [19]:https://arxiv.org/pdf/1707.01629.pdf
 [20]:https://arxiv.org/pdf/1610.02357.pdf
+[21]:https://arxiv.org/pdf/1602.07360.pdf
