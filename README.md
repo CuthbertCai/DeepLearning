@@ -16,7 +16,7 @@
 > [ResNeXt][15]--ResNet变体，改进卷积结构  
 > [DenseNet][16]--ResNet变体，每一层都能得到之前所有层的输出  
 > [MobileNet][17]--ResNet变体，应用于移动端的网络结构，大规模使用depthwise separable convolution  
-> [ShuffleNet][18]--应用于移动端的ResNet,使用group pointwise convolution  
+> [ShuffleNet][18]--应用于移动端的ResNet,使用pointwise group convolution和channel shuffle  
 > [DPN][19]--2017年ILSVRC，Dual Path Network  
 
 ### GAN ###
