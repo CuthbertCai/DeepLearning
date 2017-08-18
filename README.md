@@ -28,6 +28,9 @@
 > [WGAN][12]--改进GAN难以训练的问题  
 > [CGAN][13]--利用Conditional Adversarial Networks进行图像风格的转换  
 
+### Lectures ###
+> [CS231n][22]--Convolutional Neural Networks for Visual Recognition
+
 [1]:https://github.com/tensorflow/models
 [2]:https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 [3]:https://arxiv.org/pdf/1409.1556.pdf
@@ -49,3 +52,4 @@
 [19]:https://arxiv.org/pdf/1707.01629.pdf
 [20]:https://arxiv.org/pdf/1610.02357.pdf
 [21]:https://arxiv.org/pdf/1602.07360.pdf
+[22]:http://cs231n.stanford.edu/
