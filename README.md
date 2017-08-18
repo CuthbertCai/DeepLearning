@@ -29,7 +29,7 @@
 > [CGAN][13]--利用Conditional Adversarial Networks进行图像风格的转换  
 
 ### Lectures ###
-> [CS231n][22]--Convolutional Neural Networks for Visual Recognition
+> [CS231n][22]--Convolutional Neural Networks for Visual Recognition,配有中文字幕的视频[点这][23]，需要翻墙
 
 [1]:https://github.com/tensorflow/models
 [2]:https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
@@ -53,3 +53,4 @@
 [20]:https://arxiv.org/pdf/1610.02357.pdf
 [21]:https://arxiv.org/pdf/1602.07360.pdf
 [22]:http://cs231n.stanford.edu/
+[23]:https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
