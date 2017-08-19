@@ -23,8 +23,9 @@
 > [SqueezeNet][21]--small DNN architecture,参数大大减少  
 
 ### RNN ###
-> [Understanding LSTM Networks][24]:介绍RNN和LSTM的博客，可作为RNN和LSTM入门的学习资料
-> [GRU][25]:A variation of LSTM, Gated Recurrent Unit
+> [Understanding LSTM Networks][24]:介绍RNN和LSTM的博客，可作为RNN和LSTM入门的学习资料  
+> [GRU][25]:A variation of LSTM, Gated Recurrent Unit  
+> [Attention and Augmented Recurrent Neural Networks][26]:A blog about some variations of RNN, especially attention.  
 
 ### GAN ###
 > [GAN][10]--GAN网络的出现  
@@ -60,3 +61,4 @@
 [23]:https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
 [24]:http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 [25]:https://arxiv.org/pdf/1406.1078v3.pdf
+[26]:https://distill.pub/2016/augmented-rnns/
