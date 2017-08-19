@@ -24,6 +24,7 @@
 
 ### RNN ###
 > [Understanding LSTM Networks][24]:介绍RNN和LSTM的博客，可作为RNN和LSTM入门的学习资料
+> [GRU][25]:A variation of LSTM, Gated Recurrent Unit
 
 ### GAN ###
 > [GAN][10]--GAN网络的出现  
@@ -58,3 +59,4 @@
 [22]:http://cs231n.stanford.edu/
 [23]:https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
 [24]:http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+[25]:https://arxiv.org/pdf/1406.1078v3.pdf
