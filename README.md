@@ -73,3 +73,5 @@
 [28]:https://arxiv.org/pdf/1504.08083.pdf
 [29]:https://arxiv.org/pdf/1506.01497v3.pdf
 [30]:https://arxiv.org/pdf/1406.4729.pdf
+[31]:http://cs224d.stanford.edu/
+[32]:https://www.youtube.com/watch?v=ASn7ExxLZws&index=3&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
