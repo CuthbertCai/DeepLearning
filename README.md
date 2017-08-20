@@ -22,6 +22,12 @@
 > [ShuffleNet][18]--应用于移动端的ResNet,使用pointwise group convolution和channel shuffle  
 > [SqueezeNet][21]--small DNN architecture,参数大大减少  
 
+> #### CNN for Object Detection ####
+> [R-CNN][27]--Regions with CNN features  
+> [Fast R-CNN][28]--Fast Region-based Convolutional Network method, using spatial pramid pooling  
+> [Faster R-CNN][29]--Real-Time Object Dectection with Region Proposal Networks  
+> [SPP-Net][30]--Spatial Pyramid Pooling, can generate fixed-length representation regardless of image size  
+
 ### RNN ###
 > [Understanding LSTM Networks][24]:介绍RNN和LSTM的博客，可作为RNN和LSTM入门的学习资料  
 > [GRU][25]:A variation of LSTM, Gated Recurrent Unit  
@@ -35,6 +41,7 @@
 
 ### Lectures ###
 > [CS231n][22]--Convolutional Neural Networks for Visual Recognition,配有中文字幕的视频[点这][23]，需要翻墙
+> [CS224d][31]--Deep Learning for Natural Language Processing,[视频][32]  
 
 [1]:https://github.com/tensorflow/models
 [2]:https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
@@ -62,3 +69,7 @@
 [24]:http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 [25]:https://arxiv.org/pdf/1406.1078v3.pdf
 [26]:https://distill.pub/2016/augmented-rnns/
+[27]:https://arxiv.org/pdf/1311.2524v5.pdf
+[28]:https://arxiv.org/pdf/1504.08083.pdf
+[29]:https://arxiv.org/pdf/1506.01497v3.pdf
+[30]:https://arxiv.org/pdf/1406.4729.pdf
