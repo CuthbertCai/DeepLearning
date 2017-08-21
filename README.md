@@ -41,7 +41,7 @@
 
 ### CVPR 2017 ###
 > [FRRN][33]--Full-Resolution Residual Networks, one stream for recogniton while the other stream for localization, without pre-train  
-> [PointNet][34]--Deep learning on Points Sets for Classification and Segmentation, derectly consuming points sets, robust woth respect to input perturbation, unified structure for different tasks  
+> [PointNet][34]--Deep learning on Points Sets for Classification and Segmentation, derectly consuming points sets, robust woth respect to input perturbation, unified structure for different tasks  
 > [SRGAN][35]--Single Image Super-Resolution using GAN, perceptual loss for high quality  
 
 ### Lectures ###
