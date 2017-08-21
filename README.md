@@ -26,7 +26,7 @@
 > [R-CNN][27]--Regions with CNN features  
 > [Fast R-CNN][28]--Fast Region-based Convolutional Network method, using spatial pramid pooling  
 > [Faster R-CNN][29]--Real-Time Object Dectection with Region Proposal Networks  
-> [SPP-Net][30]--Spatial Pyramid Pooling, can generate fixed-length representation regardless of image size  
+> [SPP-Net][30]--Spatial Pyramid Pooling, can generate fixed-length representation regardless of image size    
 
 ### RNN ###
 > [Understanding LSTM Networks][24]:介绍RNN和LSTM的博客，可作为RNN和LSTM入门的学习资料  
@@ -38,6 +38,11 @@
 > [DCGAN][11]--CNN与GAN的结合  
 > [WGAN][12]--改进GAN难以训练的问题  
 > [CGAN][13]--利用Conditional Adversarial Networks进行图像风格的转换  
+
+### CVPR 2017 ###
+> [FRRN][33]--Full-Resolution Residual Networks, one stream for recogniton while the other stream for localization, without pre-train  
+> [PointNet][34]--Deep learning on Points Sets for Classification and Segmentation, derectly consuming points sets, robust woth respect to input perturbation, unified structure for different tasks  
+> [SRGAN][35]--Single Image Super-Resolution using GAN, perceptual loss for high quality  
 
 ### Lectures ###
 > [CS231n][22]--Convolutional Neural Networks for Visual Recognition,配有中文字幕的视频[点这][23]，需要翻墙  
@@ -75,3 +80,6 @@
 [30]:https://arxiv.org/pdf/1406.4729.pdf
 [31]:http://cs224d.stanford.edu/
 [32]:https://www.youtube.com/watch?v=ASn7ExxLZws&index=3&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
+[33]:https://arxiv.org/pdf/1611.08323.pdf
+[34]:http://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf
+[35]:https://arxiv.org/pdf/1609.04802.pdf
