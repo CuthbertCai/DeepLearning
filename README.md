@@ -2,6 +2,7 @@
 > 收集了关于深度学习的一些学习资料，主要包括CNN,RNN,GAN的论文和网课，模型的具体实现可以参考Tensorflow的[models][1],里面包括了很多深度学习的模型实现．
 
 ### CNN ###
+> #### [A Guide to Convolution Arithmetic for Deep Learning][37]  
 > #### 在ImageNet比赛中出现的比较重要的CNN结构以及ResNet的各种变体  
 > [AlexNet][2]--2012年ILSVRC的优胜者  
 > [VGG][3]--Very Deep Convolutional Networks for Large-Scale Image Recognition,主要专注于加深网络结构从而提升网络性能  
@@ -43,6 +44,7 @@
 > [FRRN][33]--Full-Resolution Residual Networks, one stream for recogniton while the other stream for localization, without pre-train  
 > [PointNet][34]--Deep learning on Points Sets for Classification and Segmentation, derectly consuming points sets, robust woth respect to input perturbation, unified structure for different tasks  
 > [SRGAN][35]--Single Image Super-Resolution using GAN, perceptual loss for high quality  
+> [Deep Image Matting][36]--A CNN encoder-decoder followed a small ResNet, an end-to-end model with a large scale dataset they create  
 
 ### Lectures ###
 > [CS231n][22]--Convolutional Neural Networks for Visual Recognition,配有中文字幕的视频[点这][23]，需要翻墙  
@@ -83,3 +85,5 @@
 [33]:https://arxiv.org/pdf/1611.08323.pdf
 [34]:http://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf
 [35]:https://arxiv.org/pdf/1609.04802.pdf
+[36]:https://arxiv.org/pdf/1703.03872.pdf
+[37]:https://arxiv.org/pdf/1603.07285.pdf
