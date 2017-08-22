@@ -45,6 +45,8 @@
 > [PointNet][34]--Deep learning on Points Sets for Classification and Segmentation, derectly consuming points sets, robust woth respect to input perturbation, unified structure for different tasks  
 > [SRGAN][35]--Single Image Super-Resolution using GAN, perceptual loss for high quality  
 > [Deep Image Matting][36]--A CNN encoder-decoder followed a small ResNet, an end-to-end model with a large scale dataset they create  
+> [Deep Reinforcement Learning-based Image Captioning][38]--Decsion-making framework, a policy network, a value network and reward defined by visual-semantic embedding   
+> [NOC][39]--Novel Object Captioner,  a network that can be trained end-to-end using a joint training strategy to integrate knowledge from external visual recognition datasets as well as semantic information from independent unannotated text corpora to generate captions for a diverse range of rare and novel objects  
 
 ### Lectures ###
 > [CS231n][22]--Convolutional Neural Networks for Visual Recognition,配有中文字幕的视频[点这][23]，需要翻墙  
@@ -87,3 +89,5 @@
 [35]:https://arxiv.org/pdf/1609.04802.pdf
 [36]:https://arxiv.org/pdf/1703.03872.pdf
 [37]:https://arxiv.org/pdf/1603.07285.pdf
+[38]:http://openaccess.thecvf.com/content_cvpr_2017/papers/Ren_Deep_Reinforcement_Learning-Based_CVPR_2017_paper.pdf
+[39]:http://openaccess.thecvf.com/content_cvpr_2017/papers/Venugopalan_Captioning_Images_With_CVPR_2017_paper.pdf
