@@ -47,6 +47,9 @@
 > [Deep Image Matting][36]--A CNN encoder-decoder followed a small ResNet, an end-to-end model with a large scale dataset they create  
 > [Deep Reinforcement Learning-based Image Captioning][38]--Decsion-making framework, a policy network, a value network and reward defined by visual-semantic embedding   
 > [NOC][39]--Novel Object Captioner,  a network that can be trained end-to-end using a joint training strategy to integrate knowledge from external visual recognition datasets as well as semantic information from independent unannotated text corpora to generate captions for a diverse range of rare and novel objects  
+> [DeliGAN][40]--GAN for Diverse and Limited Data, modify the distrubution of latent space and design a modified version of 'Inception Score' to quantitatively characterize the diversity of generated samples  
+> [SCA-CNN][41]--Spatial and Channel-Wise Attention in CNN for Image Captioning, dynamically modulated the sentence generation context in multi-layer feature maps with spatial and channel-wise attention  
+> [Realtime Multi-Person 2D Pose Estimation using PAFs][42]--One branch CNN for parts detection which produces confidence maps, the other branch CNN for part association with part affinity fields  
 
 ### Lectures ###
 > [CS231n][22]--Convolutional Neural Networks for Visual Recognition,配有中文字幕的视频[点这][23]，需要翻墙  
@@ -91,3 +94,6 @@
 [37]:https://arxiv.org/pdf/1603.07285.pdf
 [38]:http://openaccess.thecvf.com/content_cvpr_2017/papers/Ren_Deep_Reinforcement_Learning-Based_CVPR_2017_paper.pdf
 [39]:http://openaccess.thecvf.com/content_cvpr_2017/papers/Venugopalan_Captioning_Images_With_CVPR_2017_paper.pdf
+[40]:http://openaccess.thecvf.com/content_cvpr_2017/papers/Gurumurthy_DeLiGAN__Generative_CVPR_2017_paper.pdf
+[41]:http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_SCA-CNN_Spatial_and_CVPR_2017_paper.pdf
+[42]:https://arxiv.org/pdf/1611.08050.pdf
