@@ -50,6 +50,9 @@
 > [DeliGAN][40]--GAN for Diverse and Limited Data, modify the distrubution of latent space and design a modified version of 'Inception Score' to quantitatively characterize the diversity of generated samples  
 > [SCA-CNN][41]--Spatial and Channel-Wise Attention in CNN for Image Captioning, dynamically modulated the sentence generation context in multi-layer feature maps with spatial and channel-wise attention  
 > [Realtime Multi-Person 2D Pose Estimation using PAFs][42]--One branch CNN for parts detection which produces confidence maps, the other branch CNN for part association with part affinity fields  
+> [CDC][43]--Convolutional-De-Convolutional Networks for Precise Temporal Action Localization in Untrimmed Videos, C3D followed CDC filter layers which performs convolution in space and deconvolution in time, and classifies acton for each frame  
+> [DR-Net][44]--Detect Visual Relationships with Deep Relational Networks, exploit statistical dependencies between objects and their relationships, the statistical inference procedure is embedded into DR-Net  
+> [Social Scene Understanding][45]--End-to-End Multi-Person Action Localization and Collective Activity Recognition, one FCN for extracting features, one DFCN for detecting persons and a RNN for outputing individual action and collective activity  
 
 ### Lectures ###
 > [CS231n][22]--Convolutional Neural Networks for Visual Recognition,配有中文字幕的视频[点这][23]，需要翻墙  
@@ -97,3 +100,6 @@
 [40]:http://openaccess.thecvf.com/content_cvpr_2017/papers/Gurumurthy_DeLiGAN__Generative_CVPR_2017_paper.pdf
 [41]:http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_SCA-CNN_Spatial_and_CVPR_2017_paper.pdf
 [42]:https://arxiv.org/pdf/1611.08050.pdf
+[43]:https://arxiv.org/pdf/1703.01515.pdf
+[44]:http://openaccess.thecvf.com/content_cvpr_2017/papers/Dai_Detecting_Visual_Relationships_CVPR_2017_paper.pdf
+[45]:http://www.idiap.ch/~fleuret/papers/bagautdinov-et-al-cvpr2017.pdf
