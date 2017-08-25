@@ -27,7 +27,7 @@
 > [R-CNN][27]--Regions with CNN features  
 > [Fast R-CNN][28]--Fast Region-based Convolutional Network method, using spatial pramid pooling  
 > [Faster R-CNN][29]--Real-Time Object Dectection with Region Proposal Networks  
-> [SPP-Net][30]--Spatial Pyramid Pooling, can generate fixed-length representation regardless of image size    
+> [SPP-Net][30]--Spatial Pyramid Pooling, can generate fixed-length representation regardless of image size  
 
 ### RNN ###
 > [Understanding LSTM Networks][24]:介绍RNN和LSTM的博客，可作为RNN和LSTM入门的学习资料  
@@ -53,6 +53,7 @@
 > [CDC][43]--Convolutional-De-Convolutional Networks for Precise Temporal Action Localization in Untrimmed Videos, C3D followed CDC filter layers which performs convolution in space and deconvolution in time, and classifies acton for each frame  
 > [DR-Net][44]--Detect Visual Relationships with Deep Relational Networks, exploit statistical dependencies between objects and their relationships, the statistical inference procedure is embedded into DR-Net  
 > [Social Scene Understanding][45]--End-to-End Multi-Person Action Localization and Collective Activity Recognition, one FCN for extracting features, one DFCN for detecting persons and a RNN for outputing individual action and collective activity  
+> [CMNs][46]--Modeling Relationships in Referential Expression with Compositional Modular Networks, a novel architecture that learns linguistic analysis and visual inference end-to-end. **这种通过解析每个输入语句的语义结构，动态组合网络模块形成解决任务的思想是UCB AI Lab提出的，在CVPR2016上已经提出了[NMNs][47], 同时实验室的[Blog][48]中也对这种思想进行了阐述**
 
 ### Lectures ###
 > [CS231n][22]--Convolutional Neural Networks for Visual Recognition,配有中文字幕的视频[点这][23]，需要翻墙  
@@ -103,3 +104,6 @@
 [43]:https://arxiv.org/pdf/1703.01515.pdf
 [44]:http://openaccess.thecvf.com/content_cvpr_2017/papers/Dai_Detecting_Visual_Relationships_CVPR_2017_paper.pdf
 [45]:http://www.idiap.ch/~fleuret/papers/bagautdinov-et-al-cvpr2017.pdf
+[46]:https://arxiv.org/pdf/1611.09978.pdf
+[47]:https://arxiv.org/pdf/1511.02799.pdf
+[48]:http://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/
