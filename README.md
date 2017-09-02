@@ -28,6 +28,7 @@
 > [Fast R-CNN][28]--Fast Region-based Convolutional Network method, using spatial pramid pooling  
 > [Faster R-CNN][29]--Real-Time Object Dectection with Region Proposal Networks  
 > [SPP-Net][30]--Spatial Pyramid Pooling, can generate fixed-length representation regardless of image size  
+> [YOLO][49]--You only look once, unified, Real-Time Object Dectection, a single CNN for object detecting  
 
 ### RNN ###
 > [Understanding LSTM Networks][24]:介绍RNN和LSTM的博客，可作为RNN和LSTM入门的学习资料  
@@ -107,3 +108,4 @@
 [46]:https://arxiv.org/pdf/1611.09978.pdf
 [47]:https://arxiv.org/pdf/1511.02799.pdf
 [48]:http://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/
+[49]:https://arxiv.org/pdf/1506.02640.pdf
