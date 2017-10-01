@@ -55,7 +55,7 @@
 > [DR-Net][44]--Detect Visual Relationships with Deep Relational Networks, exploit statistical dependencies between objects and their relationships, the statistical inference procedure is embedded into DR-Net  
 > [Social Scene Understanding][45]--End-to-End Multi-Person Action Localization and Collective Activity Recognition, one FCN for extracting features, one DFCN for detecting persons and a RNN for outputing individual action and collective activity  
 > [CMNs][46]--Modeling Relationships in Referential Expression with Compositional Modular Networks, a novel architecture that learns linguistic analysis and visual inference end-to-end. **这种通过解析每个输入语句的语义结构，动态组合网络模块形成解决任务的思想是UCB AI Lab提出的，在CVPR2016上已经提出了[NMNs][47], 同时实验室的[Blog][48]中也对这种思想进行了阐述**
-
+> [PixelDA][50]--Unsupervised Pixel-Level Domain Adaptation with GAN. Use GAN in domain adaptation, which could produce infinite samples for computer vision tasks.
 ### Lectures ###
 > [CS231n][22]--Convolutional Neural Networks for Visual Recognition,配有中文字幕的视频[点这][23]，需要翻墙  
 > [CS224d][31]--Deep Learning for Natural Language Processing,[视频][32]  
@@ -109,3 +109,4 @@
 [47]:https://arxiv.org/pdf/1511.02799.pdf
 [48]:http://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/
 [49]:https://arxiv.org/pdf/1506.02640.pdf
+[50]:https://arxiv.org/pdf/1612.05424.pdf
